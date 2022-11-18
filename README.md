@@ -23,8 +23,6 @@ https://www.webiny.com/docs/infrastructure/aws/configure-aws-credentials
 
 Pasos en español:
 
-Configurar credenciales AWS https://www.webiny.com/docs/infrastructure/aws/configure-aws-credentials
-
 -Para crear su cuenta de AWS y configurar sus credenciales de IAM, primero debemos navegar a la página de la consola de AWS : https://aws.amazon.com/es/console/ -A continuación, haga clic en Create a new AWS account -Ahora ingrese sus credenciales y cree su cuenta
 
 -Una vez que esté registrado, inicie sesión y diríjase a la Consola de administración de AWS y seleccione 'IAM' en 'Security, Identity & Compliance' -Haga click en 'IAM' y seleccione 'Usuarios' en 'Gestión de acceso' -Haga click en Agregar usuario para crear la cuenta con las credenciales de IAM
